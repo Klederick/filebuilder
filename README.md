@@ -1,5 +1,5 @@
 # filebuilder
-Cool rozsirovatelny randomizovany builder pre seznam.txt aby si hocikto mohou v IZP vyzkusat rozne inputy
+Cool rozsirovatelny randomizovany builder pre seznam.txt aby si hocikto mohol v IZP vyzkusat rozne inputy
 //Navod ako na to pre noobs LULW
 1. makenes vsetky files skrz makefile lebo preco nie
 2. dostanes numeromaker a filebuilder ako spustacie programy
